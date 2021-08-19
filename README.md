@@ -53,3 +53,17 @@ The software tools used for designing and developing the application includes:<b
 - MySQL for RDBMS
 - Firebase which is a BaaS for NoSQL database
 - Material UI for beautifying UI
+
+## Result Snippets
+
+1. EPHARMACY PAGE
+   ![alt text](https://github.com/yatinsatija/E-Medic/blob/main/ResultSnippets/epharmacy.png)
+
+2. ECONSULTANCY PAGE
+   ![alt text](https://github.com/yatinsatija/E-Medic/blob/main/ResultSnippets/econsultancy.png)
+
+3. CHECKOUT PAGE
+   ![alt text](https://github.com/yatinsatija/E-Medic/blob/main/ResultSnippets/checkout.png)
+
+4. MAPS API
+   ![alt text](https://github.com/yatinsatija/E-Medic/blob/main/ResultSnippets/tomtomMapsAPI.png)
